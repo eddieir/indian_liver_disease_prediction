@@ -53,3 +53,10 @@ For this project we have done the analysis based on the following methods:
 
 
 For the First model wich is Logistic Regression we have the 0.581751737359 for Training accuracy and 0.710262345679 For testing accuracy and False positive vs True positive will be : ![FalsePositiveVSTruePositive](https://user-images.githubusercontent.com/23243761/67106016-22244180-f1ca-11e9-9093-b83d78034470.png)
+
+The second model which is Random Forest has the Training accuracy of 0.88846153846153852 and testing accuracy of 0.726466049383 and False positive vs True positive will be ![TruePositiveVsFalsePositiveRandomForest](https://user-images.githubusercontent.com/23243761/67107062-00c45500-f1cc-11e9-8123-99b20369499d.png)
+
+The Third model which is XGBoost the Training accuracy of 0.68413611310807565 and testing accuracy of 0.715470679012 and False positive vs True positive will be ![FalsePOsitiveVsTruePositive_Gradient_Bossting](https://user-images.githubusercontent.com/23243761/67107190-4123d300-f1cc-11e9-9f81-d5eeba3000ed.png) and the feature importance of this model is ![FScoreVSFeatures](https://user-images.githubusercontent.com/23243761/67107294-76c8bc00-f1cc-11e9-82bd-fe9ff4eb81fc.png)
+
+The fourth model is KNN that has the training accuracy of 0.63769470404984419 and testing accuracy of 0.628279320988 and False positive vs True positive will be ![TruePositiveVSFalsePosotive_KNN](https://user-images.githubusercontent.com/23243761/67107377-a8da1e00-f1cc-11e9-8228-318cb3d5edc5.png)
+
